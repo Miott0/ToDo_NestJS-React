@@ -5,9 +5,6 @@
 
 
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 
 ## License
 
